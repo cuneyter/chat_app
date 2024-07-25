@@ -1,3 +1,13 @@
+# Chat App FE
+
+This is an experimental chat application built with React. The application allows users to send messages to each other in real-time. Currently working on Frontend only and the backend is not implemented yet.
+- Technologies will be used:
+  - React (Frontend)
+  - NestJS (Backend)
+  - GraphQL as a query language for the API (Backend)
+  - MongoDB as a database (Backend)
+  - Websockets for real-time communication (Backend)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
